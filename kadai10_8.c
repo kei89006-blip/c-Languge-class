@@ -1,21 +1,21 @@
 	
 /*
 program=kadai10_8.c
-date=1Œ5“ú
+date=1æœˆ5æ—¥
 */
 #include <stdio.h>
 void adult(void)
 {
-    printf("¬l‚Å‚·\n");
+    printf("æˆäººã§ã™\n");
 }
 void child(void)
 {
-    printf("–¢¬”N‚Å‚·\n");
+    printf("æœªæˆå¹´ã§ã™\n");
 }
 
 int main()
 {
-    printf("”N—î‚ğ“ü—Í:");
+    printf("å¹´é½¢ã‚’å…¥åŠ›:");
     int age;
     scanf("%d", &age);
     if(age<18){
@@ -26,8 +26,8 @@ int main()
        return 0;
 }
 /*
-”N—î‚ğ“ü—Í:17
-–¢¬”N‚Å‚·
-”N—î‚ğ“ü—Í:19
-¬l‚Å‚·
+å¹´é½¢ã‚’å…¥åŠ›:17
+æœªæˆå¹´ã§ã™
+å¹´é½¢ã‚’å…¥åŠ›:19
+æˆäººã§ã™
 */
