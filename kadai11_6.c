@@ -1,7 +1,6 @@
 	
 /*
 program=kadai11_6.c
-date=1月19日
 */
 #include <stdio.h>
 
