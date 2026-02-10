@@ -1,8 +1,3 @@
-	
-/*
-program=kadai10_8.c
-date=1月5日
-*/
 #include <stdio.h>
 void adult(void)
 {

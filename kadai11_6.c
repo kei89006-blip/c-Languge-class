@@ -1,6 +1,7 @@
 	
 /*
 program=kadai11_6.c
+memo
 */
 #include <stdio.h>
 
