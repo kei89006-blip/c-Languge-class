@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <string.h> //strcpy()関数を利用するため
 
